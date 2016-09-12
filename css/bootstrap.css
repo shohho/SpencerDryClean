@@ -4277,7 +4277,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-size: 18px;
   line-height: 20px;
 }
@@ -6767,5 +6768,13 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+#spencer404 {
+  padding:30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  background-size: cover;
+
 }
 /*# sourceMappingURL=bootstrap.css.map */
